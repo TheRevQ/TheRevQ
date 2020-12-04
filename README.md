@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Welcome to my profile!
 
-<!--
-**TheRevQ/TheRevQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm begineer front-end developer and graphic designer. Programming is my hobby, i like doing it. You can contact me with methods below 👇
 
-Here are some ideas to get you started:
+## ❓ Links and informations
+**Website:** https://therevq.pl/   
+**Steam profile:** https://therevq.pl/steam   
+**Discord Server:** https://therevq.pl/discord   
+ 
+## 📱 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Discord:** TheRevQ#9799    
+**E-Mail:** contact.therevq@gmail.com     
+
+
+## 🔧 My projects
+
+**TheRevQ Quicktext**   
+Live project: https://quicktext.therevq.pl/   
+Project page: https://therevq.pl/project/quicktext  `(comming soon)`
